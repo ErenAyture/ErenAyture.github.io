@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Database.html",
+    "currentPage": "inde.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -604,7 +604,7 @@
         }
       ]
     },
-    "Database.html": {
+    "inde.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Database",
